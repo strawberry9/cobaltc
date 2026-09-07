@@ -6,5 +6,4 @@ CobaltC is a statically typed systems programming language providing explicit ow
 
 The language is intended for software requiring predictable resource management, strong memory safety, native execution, and controlled interaction with low-level facilities.
 
-Refer to the [specification](CobaltC_Specification_1.0.1_Final_Publication_V3.pdf) for more details.
-
+Refer to the <a href="CobaltC_Specification_1.0.1_Final_Publication_V3.pdf" download>specification</a> for more details.
