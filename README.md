@@ -1,4 +1,4 @@
-![Project Logo](CobaltC_Cyber_Guardian_Poster.png)
+![Project Logo](CobaltC_Cyber_Guardian_Poster_small.png)
 
 This is the home of CobaltC.
 
