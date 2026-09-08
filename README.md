@@ -6,4 +6,4 @@ CobaltC is a statically typed systems programming language providing explicit ow
 
 The language is intended for software requiring predictable resource management, strong memory safety, native execution, and controlled interaction with low-level facilities.
 
-The specifiction is also available [here - ](https://strawberry9.github.io/the-wrong-memory/Appendix_06.html)
+The specifiction is also available [here](https://strawberry9.github.io/the-wrong-memory/Appendix_06.html)
