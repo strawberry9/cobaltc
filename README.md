@@ -12,29 +12,23 @@ License
 
 Copyright © 2026 strawberry9.
 
-This repository contains both software and other creative content, which are licensed separately.
+This repository contains software and other creative content, which are licensed separately.
 
-Source Code (i.e. the *.cb files)
+Source Code
 
-Unless otherwise stated, the source code in this repository is licensed under the BSD 3-Clause License.
+Unless otherwise stated, all source code in this repository is licensed under the BSD 3-Clause License.
 
-See LICENSE for the full BSD 3-Clause License.
+See LICENSE for the full license text.
 
-Other Content
+Documentation and Creative Content
 
-Unless otherwise stated, all other original content in this repository—including documentation, written content, images, graphics, and other creative materials—is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+Unless otherwise stated, the documentation, language specification, written content, images, graphics, and other original creative content in this repository are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
-Under CC BY-NC-ND 4.0:
+This means you may share the licensed content for non-commercial purposes, provided that you give appropriate attribution and comply with the license terms. You may not distribute modified versions of the licensed content.
 
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-NonCommercial — You may not use the material for commercial purposes.
-NoDerivatives — You may not distribute modified versions of the material.
+See LICENSE-CC-BY-NC-ND for the complete license text.
 
-You may copy and redistribute the CC-licensed content for non-commercial purposes, provided that you comply with the license terms.
-
-See LICENSE-CC-BY-NC-ND for the full license text.
-
-Full CC BY-NC-ND 4.0 license:
+Full license:
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 Third-Party Content
